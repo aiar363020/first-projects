@@ -2,6 +2,19 @@
     width: 500px;
     height: 250px;
     background-color: blueviolet;
-    color: chartreuse;
+    border-radius: 45px;
+}
+.content{
+    width: 350px;
+    height: 200px;
+    background-color:cadetblue;
+    border-radius: 4px;
+    margin: auto;
     
+}
+.content:hover{
+    width: 240px;
+    height: 200px;
+    background-color: rgb(246, 148, 2);
+    border-radius: 100px;
 }
